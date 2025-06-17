@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 ##### error fixed###
+=======
+Feature-1
+// some login code with otp
+// 100%
+######## This above line will be stored in a hidden git area temporarily
+
+>>>>>>> Stashed changes
 Ooty
 Bengaluru
 welcome to git hub
